@@ -2,8 +2,11 @@
 Welcome to my official repository for the Internstudio Data Science Internship (March 2026). This project showcases the application of Machine Learning and Natural Language Processing (NLP) to solve real-world financial and consumer data challenges.
 
 👤 Intern Information
+
 Name: Pudi Sai Goutham
+
 Role: Data Science Intern 
+
 Organization: Internstudio 🎓 
 
 Repository Name: Sentiment-Analysis
